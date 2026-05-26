@@ -1,5 +1,5 @@
-const WHATSAPP_NUMBER = "919999999999";
-const FIRM_NAME = "Sharma & Associates";
+const WHATSAPP_NUMBER = "918005840433";
+const FIRM_NAME = "Shubham A Jain & Co.";
 
 document.querySelectorAll(".js-whatsapp").forEach((link) => {
   const service = link.dataset.service || "CA services";
