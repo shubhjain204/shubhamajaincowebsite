@@ -76,10 +76,9 @@ a {
   height: 44px;
   align-items: center;
   justify-content: center;
-  padding: 4px;
-  background: var(--white);
-  border: 1px solid var(--line);
-  border-radius: 6px;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
 }
 
 .brand-mark img {

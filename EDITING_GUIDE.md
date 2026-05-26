@@ -35,10 +35,10 @@ const WHATSAPP_NUMBER = "9198XXXXXXXX";
 The header logo image is saved at:
 
 ```text
-assets/ca-logo.jpg
+assets/ca-logo-transparent.png
 ```
 
-It uses the CA logo linked from ICAI's official `Logo for CAs` page. Use it only in line with ICAI's current logo guidelines.
+It was created from the CA logo linked from ICAI's official `Logo for CAs` page, with the white background removed for display in the header. Use it only in line with ICAI's current logo guidelines.
 
 ## Services
 
