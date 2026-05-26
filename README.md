@@ -10,7 +10,7 @@ Static website starter for a Chartered Accountant firm. It includes:
 
 ## Customize before publishing
 
-1. Replace `Sharma & Associates` with your firm name.
+1. Replace `Shubham A Jain & Co.` with your firm name.
 2. Replace `919999999999` in `script.js` with your WhatsApp number including country code.
 3. Update service descriptions, address, registration details and disclaimer.
 4. Update the canonical URL in `index.html`.
