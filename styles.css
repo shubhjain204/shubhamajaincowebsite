@@ -149,7 +149,7 @@ a {
   overflow: hidden;
 }
 
-.hero img {
+.hero-image {
   position: absolute;
   inset: 0;
   width: 100%;
