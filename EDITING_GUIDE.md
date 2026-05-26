@@ -30,6 +30,16 @@ Use country code without `+`. For India, a number looks like:
 const WHATSAPP_NUMBER = "9198XXXXXXXX";
 ```
 
+## Brand logo
+
+The header logo image is saved at:
+
+```text
+assets/ca-logo.jpg
+```
+
+It uses the CA logo linked from ICAI's official `Logo for CAs` page. Use it only in line with ICAI's current logo guidelines.
+
 ## Services
 
 Services are listed in `index.html` inside:

@@ -71,14 +71,22 @@ a {
 }
 
 .brand-mark {
-  display: grid;
-  width: 42px;
-  height: 42px;
-  place-items: center;
-  background: var(--green);
-  color: var(--white);
+  display: inline-flex;
+  width: 58px;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  background: var(--white);
+  border: 1px solid var(--line);
   border-radius: 6px;
-  font-weight: 700;
+}
+
+.brand-mark img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
 }
 
 .brand strong,
