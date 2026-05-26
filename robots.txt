@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-github-username.github.io/ca-firm-website/sitemap.xml
+Sitemap: https://shubhjain204.github.io/shubhamajaincowebsite/sitemap.xml
